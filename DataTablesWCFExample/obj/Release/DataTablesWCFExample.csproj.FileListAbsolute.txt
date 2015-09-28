@@ -1,0 +1,5 @@
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll.config
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.pdb
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\obj\Release\DataTablesWCFExample.dll
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\obj\Release\DataTablesWCFExample.pdb

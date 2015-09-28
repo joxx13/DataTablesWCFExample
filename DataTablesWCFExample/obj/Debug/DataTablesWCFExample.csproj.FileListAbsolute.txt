@@ -8,3 +8,9 @@ D:\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.pdb
 D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\ResolveAssemblyReference.cache
 D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.dll
 D:\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.pdb
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll.config
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.dll
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\bin\DataTablesWCFExample.pdb
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.csprojResolveAssemblyReference.cache
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.dll
+E:\DEV\DataTablesWCFExample\DataTablesWCFExample\obj\Debug\DataTablesWCFExample.pdb
